@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _posts_OS = site.posts | sort: 'date' | reverse -%}
+{%- assign _posts_OS = site.categories.OS | sort: 'date' | reverse -%}
 {%- include header.html scrolly_nav=_posts -%}
 <!-- Main -->
 <div id="main">
