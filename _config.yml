@@ -9,15 +9,15 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jung, Je Won
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Sungkyunkwan University. Software engineering."
+  email: doubele112@naver.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
+  facebook: https://www.facebook.com/profile.php?id=100007028382763&ref=bookmarks
+  github: https://github.com/Doubb
+  stackexchange: https://stackexchange.com/users/8702514/jjw
   linkedin:       
   instagram:      
   flickr:         
