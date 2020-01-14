@@ -1,22 +1,23 @@
-title:            Site Title
-description:      Describe your website here.
+title: Doubb Dev
+description: Computer Science, Software, and Portfolio
 disqus_shortname: doubb
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: https://doubb.github.io/
 
 # Owner/author information
 owner:
   name:           Jung, Je Won
   avatar:         avatar.jpg
-  bio:            "Sungkyunkwan University. Software engineering."
+  bio:            "Sungkyunkwan University.
+  Software engineering."
   email: doubele112@naver.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook: https://www.facebook.com/profile.php?id=100007028382763&ref=bookmarks
-  github: https://github.com/Doubb
+  facebook: profile.php?id=100007028382763&ref=bookmarks
+  github: Doubb
   stackexchange: https://stackexchange.com/users/8702514/jjw
   linkedin:       
   instagram:      
