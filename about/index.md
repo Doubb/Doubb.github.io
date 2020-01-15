@@ -13,13 +13,13 @@ modified: 2020-01-15
 
 ## 정제원 (Jung, Je Won)
 
-* [안산동산고등학교](https://dsgo.kr) 졸업 (2012~2014)
+* 안산동산고등학교 졸업 (2012~2014)
 * [성균관대학교 소프트웨어학과](https://cs.skku.edu) 재학중 (2016~)
 
 {% capture images %}
+    /images/me_3.jpg
     /images/me_1.jpg
     /images/me_2.jpg
-    /images/me_3.jpg
 {% endcapture %}
 {% include gallery images=images cols=3 %}
 
