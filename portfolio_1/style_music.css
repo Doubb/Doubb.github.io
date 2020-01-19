@@ -1,0 +1,280 @@
+body {
+  background-color: #E4DFD7;
+  display: flex;
+  flex-direction: column;
+}
+
+div#header {
+  display: flex;
+  justify-content: center;
+  background-color: #E4DFD7;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  margin: 0px auto;
+}
+
+div#logo {
+  float: left;
+  width: 50%;
+  padding: 5px 0 0 20px;
+}
+
+ul.nav {
+  float: right;
+  list-style: none;
+  width: 100%;
+  margin: 0px auto;
+  padding-top: 10px;
+}
+
+ul.nav li {
+  float: left;
+}
+
+ul.nav a {
+  line-height: 40px;
+  color:black;
+  padding: 0 15px;
+  text-decoration: none;
+}
+
+ul.nav a:hover {
+  color:white;
+}
+
+div#main {
+  text-align: center;
+}
+
+.line {
+  position: absolute;
+  color: black;
+  font-weight: bold;
+  font-family: Verdana;
+  font-size: 84px;
+  top: 300px;
+  right: 270px;
+  background-color: white;
+  padding: 8px;
+}
+
+.v_line {
+  border-left: 1px solid black;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 300px;
+  height: 3600px;
+}
+
+
+
+.circle {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: double;
+  border-radius: 80%;
+  left: 49.3%;
+  top: 288px;
+}
+
+.diorama {
+  position: absolute;
+  right: 140px;
+  top: 700px;
+}
+
+.diorama_p {
+  position: absolute;
+  left: 33%;
+  top: 820px;
+  font-family: sans-serif;
+  border-top: 1px solid black;
+  width: 256px;
+  font-size: 14px;
+}
+
+.diorama_c {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: double;
+  border-radius: 80%;
+  left: 32.1%;
+  top: 813px;
+}
+
+.santamaria {
+  position: absolute;
+  left: 360px;
+  top: 1200px;
+}
+
+.santamaria_p {
+  position: absolute;
+  right: 360px;
+  top: 1280px;
+  font-family: sans-serif;
+  border-top: 1px solid black;
+  font-size: 14px;
+  width: 402px;
+  text-align: right;
+}
+
+.santamaria_c {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: double;
+  border-radius: 80%;
+  right: 22.8%;
+  top: 1273px;
+}
+
+.madheadlove {
+  position: absolute;
+  right: 140px;
+  top: 1640px;
+}
+
+.madheadlove_p {
+  position: absolute;
+  left: 33%;
+  top: 1750px;
+  font-family: sans-serif;
+  border-top: 1px solid black;
+  width: 256px;
+  font-size: 14px;
+}
+
+.madheadlove_c {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: double;
+  border-radius: 80%;
+  left: 32.1%;
+  top: 1743px;
+}
+
+.yankee {
+  position: absolute;
+  left: 360px;
+  top: 2100px;
+}
+
+.yankee_p {
+  position: absolute;
+  right: 470px;
+  top: 2240px;
+  font-family: sans-serif;
+  border-top: 1px solid black;
+  font-size: 14px;
+  width: 292px;
+  text-align: right;
+}
+
+.yankee_c {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: double;
+  border-radius: 80%;
+  right: 30%;
+  top: 2233px;
+}
+
+.unbelievers {
+  position: absolute;
+  left: 870px;
+  top: 2570px;
+}
+
+.unbelievers_p {
+  position: absolute;
+  left: 33%;
+  top: 2670px;
+  font-family: sans-serif;
+  border-top: 1px solid black;
+  width: 256px;
+  font-size: 14px;
+}
+
+.unbelievers_c {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: double;
+  border-radius: 80%;
+  left: 32.1%;
+  top: 2663px;
+}
+
+.bootleg {
+  position: absolute;
+  left: 360px;
+  top: 3000px;
+}
+
+.bootleg_p {
+  position: absolute;
+  right: 470px;
+  top: 3120px;
+  font-family: sans-serif;
+  border-top: 1px solid black;
+  font-size: 14px;
+  width: 292px;
+  text-align: right;
+}
+
+.bootleg_c {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: double;
+  border-radius: 80%;
+  right: 30%;
+  top: 3113px;
+}
+
+.lemon {
+  position: absolute;
+  left: 870px;
+  top: 3430px;
+}
+
+.lemon_p {
+  position: absolute;
+  left: 33%;
+  top: 3530px;
+  font-family: sans-serif;
+  border-top: 1px solid black;
+  width: 256px;
+  font-size: 14px;
+}
+
+.lemon_c {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: double;
+  border-radius: 80%;
+  left: 32.1%;
+  top: 3523px;
+}
+
+div#footer {
+  position: absolute;
+  font-family: arial;
+  font-size: 12px;
+  background-color: white;
+  width: 100%;
+  padding: 15px 0;
+  text-align: center;
+  margin-top: 150px;
+  height: 80px;
+  top:3700px;
+}
