@@ -18,7 +18,13 @@ comments: false
 
 <figure>
     <a href="{{ site.url }}/portfolio_1/"><img src="/portfolio_1/Portfolio_1_thumb.PNG" alt=""></a>
+</figure>
+
+<figure>
     <a href="{{ site.url }}/portfolio_1/"><img src="/portfolio_1/Portfolio_1_thumb2.PNG" alt=""></a>
+</figure>
+
+<figure>
     <a href="{{ site.url }}/portfolio_1/"><img src="/portfolio_1/Portfolio_1_thumb3.PNG" alt=""></a>
     <figcaption>클릭하면 사이트 예시로 이동합니다.</figcaption>
 </figure>
