@@ -16,7 +16,7 @@ comments: false
 2019년 가을학기 Web Programming Practice 과목 프로젝트  
 인물 소개 웹 사이트
 
-<figure class="third">
+<figure>
     <a href="{{ site.url }}/portfolio_1/"><img src="/portfolio_1/Portfolio_1_thumb.PNG" alt=""></a>
     <a href="{{ site.url }}/portfolio_1/"><img src="/portfolio_1/Portfolio_1_thumb2.PNG" alt=""></a>
     <a href="{{ site.url }}/portfolio_1/"><img src="/portfolio_1/Portfolio_1_thumb3.PNG" alt=""></a>
