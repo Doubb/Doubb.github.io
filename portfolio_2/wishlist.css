@@ -1,0 +1,96 @@
+.main{
+    margin: 80px 11% 100px 11%;
+}
+.title{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+.title img{
+    width: 40px;
+    height: auto;
+    margin-left: 20px;
+}
+.main_box{
+    border: 2px black solid;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_box ul{
+    list-style-type: none;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.main_meta{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: darkblue 1.5px solid;
+    height:25px;
+    padding: 5px;
+}
+
+.main_meta p{
+    margin: 0px;
+    padding:0px;
+    width: 20%;
+    text-align: center;
+}
+.main_box ul li a{
+    border-bottom: darkblue 1.5px solid;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 55px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.main_box ul li a *{
+    width:20%;
+    text-align: center;
+    padding:0px;
+}
+
+.main_box ul li a img{
+    width: 8%;
+    margin: 0px 6% 0px 6%;
+    padding:0px;
+}
+.main_box img{
+    height: 60px;
+    border: gray 1px solid;
+}
+
+.main_box a > *{
+    margin: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#delete{
+    background-color: orange;
+    border: none;
+    padding: 7px;
+    color: white;
+}
+
+#add_to_cart{
+    background-color: orange;
+    border: none;
+    padding: 7px;
+    color: white;
+}
+
+#delete:active{
+    color:black;
+}
+
+#add_to_cart:active{
+    color:black;
+}

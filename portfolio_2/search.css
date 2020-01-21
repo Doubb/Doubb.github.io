@@ -1,0 +1,52 @@
+.main{
+    width: 78%;
+    margin: 50px 11% 50px 11%;
+    
+}
+
+.main ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main ul li{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+}
+
+.items > div{
+    width:20%;
+    height: 300px;
+    border: 0.5px gainsboro solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img{
+    width: 90%;
+    height: 170px;
+    
+}
+
+.items a{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.price{
+    color:red;
+}
