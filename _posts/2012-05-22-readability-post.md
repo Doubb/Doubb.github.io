@@ -2,7 +2,7 @@
 layout: post
 title: "Testing Readability with a Bunch of Text"
 description: "A ton of text to test readability."
-tags: [sample post, readability, test, intro, OS]
+tags: [sample post, readability, test, intro]
 comments: true
 image:
   path: /images/abstract-6.jpg
