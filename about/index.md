@@ -32,3 +32,10 @@ modified: 2020-01-15
 * Database
 * 헌법
 * 한국사
+
+## 프로필 사진
+
+<figure>
+    <img src="/images/profile.PNG" alt="">
+    <figcaption>[은혼] 제 27화 표지</figcaption>
+</figure>
