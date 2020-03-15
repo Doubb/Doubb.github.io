@@ -25,13 +25,13 @@ modified: 2020-01-15
 
 ## 현재 공부중:
 
-* Java
+* Java, JSP
 * HTML, CSS, Javascript
 * React
 * Data Structure
 * Database
-* 헌법
-* 한국사
+* Operating System
+* Computer Network
 
 ## 프로필 사진
 
