@@ -27,7 +27,7 @@ modified: 2020-01-15
 
 * Java, JSP
 * HTML, CSS, Javascript
-* React
+* React.js
 * Data Structure
 * Database
 * Operating System
