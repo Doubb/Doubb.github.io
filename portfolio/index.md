@@ -32,6 +32,9 @@ comments: false
 * HTML, CSS
 * Javascript
 
+<br>
+<br>
+
 ## Web Design 2
 
 2019년 가을학기 Web Programming Practice 프로젝트  
