@@ -65,6 +65,7 @@
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
     })();
+
   </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>{% endif %}
     {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
@@ -77,6 +78,8 @@
   </footer>
 </div><!-- /.footer-wrapper -->
 
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
 {% include scripts.html %}	        
 
 </body>
