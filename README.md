@@ -1,6 +1,6 @@
 # My Own Github Website
-* www.doubbdev.com
-* check this out!
+www.doubbdev.com
+check this out!
 
 # HPSTR Jekyll Theme
 
